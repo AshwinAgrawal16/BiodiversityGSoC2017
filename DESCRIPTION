@@ -8,5 +8,5 @@ Description: Integrating biodiversity data curation functionality.
 License: IIT BHU
 LazyData: TRUE
 RoxygenNote: 6.0.1
-URL: https://github.com/AshwinAgrawal16/GSoC2017Biodiversity
-BugReports: https://github.com/AshwinAgrawal16/GSoC2017Biodiversity/issues
+URL: https://github.com/AshwinAgrawal16/BiodiversityGSoC2017
+BugReports: https://github.com/AshwinAgrawal16/BiodiversityGSoC2017/issues
